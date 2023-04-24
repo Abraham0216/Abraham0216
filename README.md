@@ -1,4 +1,4 @@
-# ![https://mouredev.com] Hey There!, my name is Abraham Oñate 👋
+# Hey There!, my name is Abraham Oñate 👋
 ### Freelance Front-End React Developer
 
 
@@ -34,7 +34,7 @@ Y alguna más...
 
 </br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraham_Onate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/abraham-o%C3%B1ate-30256525b/)
 
 
 
@@ -44,7 +44,7 @@ Y alguna más...
 
 
 </br>
-[![Email](https://img.shields.io/badge/abrahamonate10@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:abrahamonate10@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrahamonate10@gmail.com)
 </br>
 
 
